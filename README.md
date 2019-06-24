@@ -33,5 +33,5 @@ will update when i can
 # [Rafis HDDT (vaxei ver.)](https://circle-people.com/wp-content/Skins/Rafis/Rafis%202018-03-26%20HDDT.osk)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
-# [yaong](https://circle-people.com/wp-content/Skins/Vaxei%20(Donkey%20Kong)/Vaxei%202018-12-09.osk)
+# [Yaong](https://circle-people.com/wp-content/Skins/Vaxei%20(Donkey%20Kong)/Vaxei%202018-12-09.osk)
 ![](https://osu.ppy.sh/ss/13421926/b286)
