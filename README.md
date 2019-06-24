@@ -6,14 +6,11 @@ will update when i can
 # [vaxei v1.2](https://circle-people.com/wp-content/Skins/Vaxei%20(Donkey%20Kong)/Vaxei%202017-11-21%20HD%20v1.2.osk)
 ![](https://osu.ppy.sh/ss/13421895/4170)
 
-# [vaxei dt](https://circle-people.com/wp-content/Skins/Vaxei%20(Donkey%20Kong)/Vaxei%202018-03-06%20DT.osk)
-![](https://osu.ppy.sh/ss/13421907/707a)
-
 # [vaxei nomod](https://vaxei.s-ul.eu/xCT7EW48)
 ![](https://osu.ppy.sh/ss/13422009/065e)
 
 # [vaxei dt](https://vaxei.s-ul.eu/FvkphEnR)
-![](https://osu.ppy.sh/ss/13422016/f423)
+![](https://osu.ppy.sh/ss/13421907/707a)
 
 # [yaong](https://circle-people.com/wp-content/Skins/Vaxei%20(Donkey%20Kong)/Vaxei%202018-12-09.osk)
 ![](https://osu.ppy.sh/ss/13421926/b286)
