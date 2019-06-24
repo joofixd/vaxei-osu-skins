@@ -1,37 +1,37 @@
 will update when i can
 
-# [vaxei v1](https://circle-people.com/wp-content/Skins/Vaxei%20(Donkey%20Kong)/Vaxei%202017-03-05.osk)
+# [vaxei v1](https://joofixd.s-ul.eu/oDntR2QB)
 ![](https://osu.ppy.sh/ss/13421876/d524)
 
-# [vaxei v1.2](https://circle-people.com/wp-content/Skins/Vaxei%20(Donkey%20Kong)/Vaxei%202017-11-21%20HD%20v1.2.osk)
+# [vaxei v1.2](https://joofixd.s-ul.eu/Gq2lH4N4)
 ![](https://osu.ppy.sh/ss/13421895/4170)
 
-# [vaxei nomod](https://vaxei.s-ul.eu/xCT7EW48)
+# [vaxei nomod](https://joofixd.s-ul.eu/qbcieYJl)
 ![](https://osu.ppy.sh/ss/13422009/065e)
 
-# [vaxei dt](https://vaxei.s-ul.eu/FvkphEnR)
+# [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
 
-# [404 SkinNotFound v2](https://www.mediafire.com/file/yt1gkr3mj2kw4v9/Vaxei%23.osk/file)
+# [404 SkinNotFound v2](https://joofixd.s-ul.eu/qJvJfrBh)
 ![](https://osu.ppy.sh/ss/13421939/f368)
 
-# [doomsday 2.7](http://puu.sh/jqfHi/48cef80893.osk)
+# [doomsday 2.7](https://joofixd.s-ul.eu/JApkCq2x)
 ![](https://osu.ppy.sh/ss/13421931/f1ea)
 
-# [dracula (funorange)](http://www.mediafire.com/file/888yvxchcfra4gt/FunOrange+2017-12-02.osk)
+# [dracula (funorange)](https://joofixd.s-ul.eu/1ID048e5)
 ![](https://osu.ppy.sh/ss/13421944/da9d)
 
-# [fierymod v8 realest ver](https://circle-people.com/wp-content/Skins/fieryrage/fieryrage%202018-09-25.osk)
+# [fierymod v8 realest ver](https://joofixd.s-ul.eu/SQYKdh0j)
 ![](https://osu.ppy.sh/ss/13421953/d40a)
 
-# [idke 1.1](http://puu.sh/AH4XF/36d2104187.osk)
-![](https://osu.ppy.sh/ss/13421935/ac6d)
-
-# [hvick225](https://circle-people.com/wp-content/Skins/hvick225/hvick225%202016-12-3%20--Dare.osk)
+# [hvick225](https://joofixd.s-ul.eu/uh95qcIq)
 ![](https://osu.ppy.sh/ss/13421950/1846)
 
-# [Rafis HDDT (vaxei ver.)](https://circle-people.com/wp-content/Skins/Rafis/Rafis%202018-03-26%20HDDT.osk)
+# [idke 1.1](https://joofixd.s-ul.eu/m87lk9V6)
+![](https://osu.ppy.sh/ss/13421935/ac6d)
+
+# [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/9OIdFgnP)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
-# [Yaong](https://circle-people.com/wp-content/Skins/Vaxei%20(Donkey%20Kong)/Vaxei%202018-12-09.osk)
+# [Yaong](https://joofixd.s-ul.eu/iMv0VXSg)
 ![](https://osu.ppy.sh/ss/13421926/b286)
