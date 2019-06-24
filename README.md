@@ -22,19 +22,19 @@ vaxei osu! skins (edited by joofi)
 ![](https://osu.ppy.sh/ss/13421931/f1ea)
 
 # [idke](http://puu.sh/AH4XF/36d2104187.osk)
-![]()
+![](https://osu.ppy.sh/ss/13421935/ac6d)
 
 # [404 aim not found](https://www.mediafire.com/file/yt1gkr3mj2kw4v9/Vaxei%23.osk/file)
-![]()
+![](https://osu.ppy.sh/ss/13421939/f368)
 
 # [funorange](http://www.mediafire.com/file/888yvxchcfra4gt/FunOrange+2017-12-02.osk)
-![]()
+![](https://osu.ppy.sh/ss/13421944/da9d)
 
 # [hvick](https://circle-people.com/wp-content/Skins/hvick225/hvick225%202016-12-3%20--Dare.osk)
-![]()
+![](https://osu.ppy.sh/ss/13421950/1846)
 
 # [fieryrage](https://circle-people.com/wp-content/Skins/fieryrage/fieryrage%202018-09-25.osk)
-![]()
+![](https://osu.ppy.sh/ss/13421953/d40a)
 
 # [rafis](https://circle-people.com/wp-content/Skins/Rafis/Rafis%202018-03-26%20HDDT.osk)
 ![]()
