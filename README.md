@@ -9,11 +9,11 @@ will update when i can
 # [vaxei dt](https://circle-people.com/wp-content/Skins/Vaxei%20(Donkey%20Kong)/Vaxei%202018-03-06%20DT.osk)
 ![](https://osu.ppy.sh/ss/13421907/707a)
 
-# [vaxei nomod v1](https://circle-people.com/wp-content/Skins/Vaxei%20(Donkey%20Kong)/Vaxei%202018-06-05%20nomod.osk)
-![](https://osu.ppy.sh/ss/13421916/fcf3)
+# [vaxei nomod](https://vaxei.s-ul.eu/xCT7EW48)
+![](https://osu.ppy.sh/ss/13422009/065e)
 
-# [vaxei nomod v2](https://circle-people.com/wp-content/Skins/Vaxei%20(Donkey%20Kong)/Vaxei%202018-06-15%20nomod.osk)
-![](https://osu.ppy.sh/ss/13421922/db85)
+# [vaxei dt](https://vaxei.s-ul.eu/FvkphEnR)
+![](https://osu.ppy.sh/ss/13422016/f423)
 
 # [yaong](https://circle-people.com/wp-content/Skins/Vaxei%20(Donkey%20Kong)/Vaxei%202018-12-09.osk)
 ![](https://osu.ppy.sh/ss/13421926/b286)
