@@ -16,7 +16,7 @@ will update when i can
 ![](https://osu.ppy.sh/ss/13421939/f368)
 
 # [Aesthetic 1.3.2 (axarious)](https://joofixd.s-ul.eu/qbURweHL)
-![](https://osu.ppy.sh/ss/13484024/2f57)
+![](https://osu.ppy.sh/ss/13484039/7a9d)
 
 # [Doomsday 2.7](https://joofixd.s-ul.eu/JApkCq2x)
 ![](https://osu.ppy.sh/ss/13421931/f1ea)
