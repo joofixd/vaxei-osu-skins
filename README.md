@@ -21,7 +21,7 @@ will update when i can
 # [Doomsday 2.7](https://joofixd.s-ul.eu/JApkCq2x)
 ![](https://osu.ppy.sh/ss/13421931/f1ea)
 
-# [dracula (funorange)](https://joofixd.s-ul.eu/1ID048e5)
+# [dracula (funorange)](https://joofixd.s-ul.eu/AViONqPI)
 ![](https://osu.ppy.sh/ss/13421944/da9d)
 
 # [fierymod v8 realest ver](https://joofixd.s-ul.eu/SQYKdh0j)
