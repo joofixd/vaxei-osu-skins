@@ -33,6 +33,9 @@ will update when i can
 # [idke 1.1](https://joofixd.s-ul.eu/m87lk9V6)
 ![](https://osu.ppy.sh/ss/13421935/ac6d)
 
+# [Jace 6.25](https://joofixd.s-ul.eu/z3fROJ0t)
+![](https://osu.ppy.sh/ss/13484104/3041)
+
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/9OIdFgnP)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
