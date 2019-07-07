@@ -12,7 +12,7 @@ will update when i can
 # [vaxei nomod](https://joofixd.s-ul.eu/qbcieYJl)
 ![](https://osu.ppy.sh/ss/13422009/065e)
 
-# [404 SkinNotFound v2](https://joofixd.s-ul.eu/qJvJfrBh)
+# [404 SkinNotFound v2](https://joofixd.s-ul.eu/Ia93XGt5)
 ![](https://osu.ppy.sh/ss/13488989/a76a)
 
 # [Aesthetic 1.3.2 (axarious)](https://joofixd.s-ul.eu/qbURweHL)
