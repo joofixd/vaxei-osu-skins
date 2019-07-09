@@ -1,4 +1,5 @@
 will update when i can
+1K pp AND RANK 1 GLOBAL BOYZ
 
 # [vaxei v1](https://joofixd.s-ul.eu/oDntR2QB)
 ![](https://osu.ppy.sh/ss/13421876/d524)
