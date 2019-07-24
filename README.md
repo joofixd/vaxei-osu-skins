@@ -2,6 +2,8 @@ will update when i can
 
 1K pp AND RANK 1 GLOBAL BOYZ
 
+imagine being so good at the game that you have 2 1k pp plays
+
 # [vaxei v1](https://joofixd.s-ul.eu/oDntR2QB)
 ![](https://osu.ppy.sh/ss/13421876/d524)
 
