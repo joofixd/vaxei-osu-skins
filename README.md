@@ -1,4 +1,4 @@
-will update when i can
+will update as often as i can, but dm me on discord @joofi#9192 if a skin is missing
 
 1K pp AND RANK 1 GLOBAL BOYZ
 
