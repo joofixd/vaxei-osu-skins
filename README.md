@@ -43,5 +43,8 @@ imagine being so good at the game that you have 2 1k pp plays
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/9OIdFgnP)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
+# [Selyu v2.3 (flyingtuna)](https://joofixd.s-ul.eu/AD2mDp8D)
+![](https://osu.ppy.sh/ss/13590349/4121)
+
 # [Yaong](https://joofixd.s-ul.eu/iMv0VXSg)
 ![](https://osu.ppy.sh/ss/13421926/b286)
