@@ -13,7 +13,7 @@ imagine being so good at the game that you have 2 1k pp plays
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
 
-# [vaxei nomod](https://joofixd.s-ul.eu/qbcieYJl)
+# [vaxei nomod](https://joofixd.s-ul.eu/zStMTKdG)
 ![](https://osu.ppy.sh/ss/13422009/065e)
 
 # [404 SkinNotFound v2](https://joofixd.s-ul.eu/Ia93XGt5)
