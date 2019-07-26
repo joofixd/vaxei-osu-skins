@@ -19,7 +19,7 @@ imagine being so good at the game that you have 2 1k pp plays
 # [404 SkinNotFound v2](https://joofixd.s-ul.eu/Ia93XGt5)
 ![](https://osu.ppy.sh/ss/13488989/a76a)
 
-# [Aesthetic 1.3.2 (axarious)](https://joofixd.s-ul.eu/qbURweHL)
+# [Aesthetic 1.3.2 (axarious)](https://joofixd.s-ul.eu/USOG9BPE)
 ![](https://osu.ppy.sh/ss/13484039/7a9d)
 
 # [Doomsday 2.7](https://joofixd.s-ul.eu/JApkCq2x)
