@@ -47,4 +47,4 @@ imagine being so good at the game that you have 2 1k pp plays
 ![](https://osu.ppy.sh/ss/13590349/4121)
 
 # [Yaong](https://joofixd.s-ul.eu/iMv0VXSg)
-![](https://osu.ppy.sh/ss/13421926/b286)
+![](https://osu.ppy.sh/ss/13590362/df76)
