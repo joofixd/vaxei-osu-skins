@@ -34,7 +34,7 @@ imagine being so good at the game that you have 2 1k pp plays
 # [hvick225](https://joofixd.s-ul.eu/uh95qcIq)
 ![](https://osu.ppy.sh/ss/13421950/1846)
 
-# [idke 1.1](https://joofixd.s-ul.eu/m87lk9V6)
+# [idke 1.1](https://joofixd.s-ul.eu/brttrQUN)
 ![](https://osu.ppy.sh/ss/13421935/ac6d)
 
 # [Jace 6.25](https://joofixd.s-ul.eu/z3fROJ0t)
