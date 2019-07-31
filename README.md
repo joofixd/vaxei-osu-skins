@@ -1,6 +1,6 @@
 # will update as often as i can, but dm me on discord @joofi#9192 if a skin is missing (scroll down and check first though, it will most likely be here)
 
-vaxei skins on top and then everything else is in alphabetical order
+vaxei skins are at the top and then everything else is in alphabetical order
 
 1K pp AND RANK 1 GLOBAL BOYZ (2 1k pp scores now rofl)
 
