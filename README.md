@@ -1,8 +1,8 @@
 # will update as often as i can, but dm me on discord @joofi#9192 if a skin is missing (scroll down and check first though, it will most likely be here)
 
-1K pp AND RANK 1 GLOBAL BOYZ
+vaxei skins on top and then everything else is in alphabetical order
 
-imagine being so good at the game that you have 2 1k pp plays
+1K pp AND RANK 1 GLOBAL BOYZ (2 1k pp scores now rofl)
 
 # [vaxei v1](https://joofixd.s-ul.eu/oDntR2QB)
 ![](https://osu.ppy.sh/ss/13421876/d524)
