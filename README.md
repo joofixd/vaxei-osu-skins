@@ -25,7 +25,7 @@ ORDER: most used skin (currently rafis), then vaxei skins, then everything else 
 # [Aesthetic 1.3.2 (axarious)](https://joofixd.s-ul.eu/USOG9BPE)
 ![](https://osu.ppy.sh/ss/13484039/7a9d)
 
-# [Doomsday 2.7](https://joofixd.s-ul.eu/JApkCq2x)
+# [Doomsday v2.7](https://joofixd.s-ul.eu/JApkCq2x)
 ![](https://osu.ppy.sh/ss/13421931/f1ea)
 
 # [dracula (funorange)](https://joofixd.s-ul.eu/AViONqPI)
