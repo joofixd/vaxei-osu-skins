@@ -1,6 +1,6 @@
 # will update as often as i can, but dm me on discord @joofi#9192 if a skin is missing (scroll down and check first though, it will most likely be here)
 
-order: most used skin (currently rafis), then vaxei skins, then everything else is below in alphabetical order
+# ORDER: most used skin (currently rafis), then vaxei skins, then everything else is below in alphabetical order
 
 1K pp AND RANK 1 GLOBAL BOYZ (2 1k pp scores now rofl)
 
