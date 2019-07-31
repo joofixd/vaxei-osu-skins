@@ -1,8 +1,11 @@
 # will update as often as i can, but dm me on discord @joofi#9192 if a skin is missing (scroll down and check first though, it will most likely be here)
 
-vaxei skins are at the top and then everything else is in alphabetical order
+order: most used skin (currently rafis), then vaxei skins, then everything else is below in alphabetical order
 
 1K pp AND RANK 1 GLOBAL BOYZ (2 1k pp scores now rofl)
+
+# [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/1jmmH3LN)
+![](https://osu.ppy.sh/ss/13422086/af38)
 
 # [vaxei v1](https://joofixd.s-ul.eu/oDntR2QB)
 ![](https://osu.ppy.sh/ss/13421876/d524)
@@ -39,9 +42,6 @@ vaxei skins are at the top and then everything else is in alphabetical order
 
 # [Jace 6.25](https://joofixd.s-ul.eu/z3fROJ0t)
 ![](https://osu.ppy.sh/ss/13484104/3041)
-
-# [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/9OIdFgnP)
-![](https://osu.ppy.sh/ss/13422086/af38)
 
 # [Selyu v2.3 (flyingtuna)](https://joofixd.s-ul.eu/AD2mDp8D)
 ![](https://osu.ppy.sh/ss/13590349/4121)
