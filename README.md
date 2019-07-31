@@ -4,7 +4,7 @@ ORDER: most used skin (currently rafis), then vaxei skins, then everything else 
 
 1K pp AND RANK 1 GLOBAL BOYZ (2 1k pp scores now rofl)
 
-# [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/T373aoDb)
+# [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
 # [vaxei v1](https://joofixd.s-ul.eu/oDntR2QB)
