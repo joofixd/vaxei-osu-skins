@@ -4,6 +4,9 @@ ORDER: most used skin (currently rafis), then vaxei skins, then everything else 
 
 1K pp AND RANK 1 GLOBAL BOYZ (2 1k pp scores now rofl)
 
+important updates (will be deleted when resolved)(m/d/y):
+- 09/07/19: the skin he used in his latest stream 2 hours ago (ShigeSeoulGlowingSliderHeads) is uploaded here (renamed to vaxei nomod ver. 2) but it's not 100% accurate. the sliderhead and some other things may be off because i have a better chance at finding jeff bezos' wallet on the sidewalk than finding elements from vaxei's mix skins.
+
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
@@ -18,6 +21,9 @@ ORDER: most used skin (currently rafis), then vaxei skins, then everything else 
 
 # [vaxei nomod](https://joofixd.s-ul.eu/zStMTKdG)
 ![](https://osu.ppy.sh/ss/13422009/065e)
+
+# [vaxei nomod ver. 2](https://joofixd.s-ul.eu/KEulmKUY)
+![](https://joofixd.s-ul.eu/LxCDFgOy)
 
 # [404 SkinNotFound v2](https://joofixd.s-ul.eu/Ia93XGt5)
 ![](https://osu.ppy.sh/ss/13488989/a76a)
