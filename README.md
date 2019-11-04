@@ -2,7 +2,7 @@
 
 ORDER: most used skin (currently rafis), then vaxei skins, then everything else is below in alphabetical order
 
-1K pp AND RANK 1 GLOBAL BOYZ (2 1k pp scores now rofl)
+READ: vax has a lot of copies of certain skins with just different cursors, but i'm not gonna upload them all separately bc it's a hassle. just check the cursor folder for each skin if it doesn't have the cursor that you saw him playing with by default
 
 important updates (will be deleted when resolved)(m/d/y):
 - 09/07/19: the skin he used in his latest stream 2 hours ago (ShigeSeoulGlowingSliderHeads) is uploaded here (renamed to vaxei nomod ver. 2) but it's not 100% accurate. the sliderhead and some other things may be off because i have a better chance at finding jeff bezos' wallet on the sidewalk than finding elements from vaxei's mix skins.
