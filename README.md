@@ -2,10 +2,12 @@
 
 ORDER: most used skin (currently rafis), then vaxei skins, then everything else is below in alphabetical order
 
-READ: vax has a lot of copies of certain skins with just different cursors, but i'm not gonna upload them all separately bc it's a hassle. just check the cursor folder for each skin if it doesn't have the cursor that you saw him playing with by default
+READ: vax has a lot of copies of certain skins with just different cursors, but i'm not gonna upload them all separately bc it's a hassle. just check the cursor folder for each skin if it doesn't have the cursor that you saw him playing with by default.
 
-important updates (will be deleted when resolved)(m/d/y):
+important updates (will be deleted when fully resolved)(m/d/y):
 - 09/07/19: the skin he used in his latest stream 2 hours ago (ShigeSeoulGlowingSliderHeads) is uploaded here (renamed to vaxei nomod ver. 2) but it's not 100% accurate. the sliderhead and some other things may be off because i have a better chance at finding jeff bezos' wallet on the sidewalk than finding elements from vaxei's mix skins.
+
+- 11/03/19: updated vaxei nomod ver. 2 with new sliderhitcircle and sliderhitcircleoverlay elements, props to a guy on discord who dm'd me them. dunno if they're 100% accurate, but they're better than the previous ones.
 
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
