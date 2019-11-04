@@ -25,7 +25,7 @@ important updates (will be deleted when fully resolved)(m/d/y):
 ![](https://osu.ppy.sh/ss/13422009/065e)
 
 # [vaxei nomod ver. 2](https://joofixd.s-ul.eu/ZTwFcZre)
-![](https://joofixd.s-ul.eu/LxCDFgOy)
+![](https://osu.ppy.sh/ss/14067504/9c70)
 
 # [404 SkinNotFound v2](https://joofixd.s-ul.eu/Ia93XGt5)
 ![](https://osu.ppy.sh/ss/13488989/a76a)
