@@ -9,6 +9,8 @@ important updates (will be deleted when fully resolved)(m/d/y):
 
 - 11/03/19: updated vaxei nomod ver. 2 with new sliderhitcircle and sliderhitcircleoverlay elements, props to a guy on discord who dm'd me them. dunno if they're 100% accurate, but they're better than the previous ones.
 
+- 11/09/19: didn't even notice that the followpoints for vaxei nomod ver. 2 were off, updated them to funorange followpoints. props to another guy on discord who pointed it out.
+
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
