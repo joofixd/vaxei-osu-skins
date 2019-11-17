@@ -13,11 +13,16 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 
 - 11/16/19: i think i added every skin he used on today's stream so far (not counting the ones he used for like 5 seconds), but chitanda is a little iffy. combobreak.mp3/wav, sectionpass.mp3/wav, sectionfail.mp3/wav, and maybe a couple of other things are off. still pretty faithful to what he's using (the followpoints are good) but you may notice that some things are off if you're an extreme skin collector. also, rrtyui skin doesn't have gray bg for everything but vaxei's version doesn't either, he just manually adds it. i'll check vod tomorrow to see if he uses any more new ones bc i'm done for now.
 
+- 11/17/19: added Kantoku Skin by RuRu (SnowWhite) and updated various things for other skins (name, HitcircleOverlay, etc). gonna add the white/green yellow cursor skin later.
+
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
+
+# [Kantoku Skin by RuRu (SnowWhite)](https://joofixd.s-ul.eu/paFbrEnp)
+![](https://osu.ppy.sh/ss/14126836/e5d4)
 
 # [mathi](https://joofixd.s-ul.eu/K3clpIyf)
 ![](https://osu.ppy.sh/ss/14123677/bc84)
@@ -67,7 +72,7 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 # [fierymod v8 realest ver](https://joofixd.s-ul.eu/SQYKdh0j)
 ![](https://osu.ppy.sh/ss/13421953/d40a)
 
-# [hvick225](https://joofixd.s-ul.eu/uh95qcIq)
+# [hvick225 new](https://joofixd.s-ul.eu/CHlpQJwY)
 ![](https://osu.ppy.sh/ss/13421950/1846)
 
 # [vaxei nomod](https://joofixd.s-ul.eu/zStMTKdG)
