@@ -19,7 +19,10 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
 
-# [Chitanda (vaxei ver.)]()
+# [mathi](https://joofixd.s-ul.eu/K3clpIyf)
+![](https://osu.ppy.sh/ss/14123677/bc84)
+
+# [Chitanda (vaxei ver.)](https://joofixd.s-ul.eu/QVXirasv)
 ![](https://osu.ppy.sh/ss/14123642/b71e)
 
 # [vaxei nomod ver. 3](https://joofixd.s-ul.eu/RNHPWP03)
@@ -28,8 +31,8 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 # [rafis old](https://joofixd.s-ul.eu/GWIpIUCT)
 ![](https://osu.ppy.sh/ss/14123531/172a)
 
-# [Azerino 23.01.2015](https://joofixd.s-ul.eu/nPk5glJZ)
-![](https://osu.ppy.sh/ss/14123414/47ef)
+# [Azerino 23.01.2015](https://joofixd.s-ul.eu/uNxwTdiD)
+![](https://osu.ppy.sh/ss/14123675/ca52)
 
 # [Azerino10032015](https://joofixd.s-ul.eu/stCYecPH)
 ![](https://osu.ppy.sh/ss/14123388/6546)
