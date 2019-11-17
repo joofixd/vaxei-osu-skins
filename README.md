@@ -19,7 +19,7 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
 
-# [Chitanda (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
+# [Chitanda (vaxei ver.)]()
 ![](https://osu.ppy.sh/ss/14123642/b71e)
 
 # [vaxei nomod ver. 3](https://joofixd.s-ul.eu/RNHPWP03)
