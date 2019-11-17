@@ -1,23 +1,15 @@
-# will update as often as i can, but dm me on discord @joofi#9192 if a skin is missing (scroll down and check first though, it will most likely be here)
+# will update as often as i can, but dm me on discord @joofi#9192 if a skin is missing because holy hell he has/uses a lot of them (scroll down and check first though, it will most likely be here)
 
-# CHECK THE SKIN FOLDER OF A SKIN IF THE DOWNLOAD LINK DOESN'T AUTOMATICALLY COME WITH THE CURSOR THAT YOU SAW HIM RECENTLY USING ON STREAM. IT WILL PROBABLY BE THERE, IF NOT, NOTIFY ME.
+# CHECK THE SKIN FOLDER OF A SKIN IF THE DOWNLOAD LINK DOESN'T AUTOMATICALLY COME WITH THE CURSOR (ie: yellow cookiezi cursor with no trail as opposed with a trail) THAT YOU SAW HIM RECENTLY USING ON STREAM. IT WILL PROBABLY BE THERE, IF NOT, NOTIFY ME.
 
 ORDER: most used skin (currently rafis), then vaxei skins, then everything else is below in alphabetical order.
 
-updates (m/d/y):
-- 09/07/19: the skin he used in his latest stream 2 hours ago (ShigeSeoulGlowingSliderHeads) is uploaded here (renamed to vaxei nomod ver. 2) but it's not 100% accurate. the sliderhead and some other things may be off because i have a better chance at finding jeff bezos' wallet on the sidewalk than finding elements from vaxei's mix skins.
-
-- 11/03/19: updated vaxei nomod ver. 2 with new sliderhitcircle and sliderhitcircleoverlay elements, props to a guy on discord who dm'd me them. dunno if they're 100% accurate, but they're better than the previous ones.
-
+updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 - 11/09/19: didn't even notice that the followpoints for vaxei nomod ver. 2 were off, updated them to funorange followpoints. props to another guy on discord who pointed it out.
 
 - 11/16/19: working on chitanda edit, that generic white/green hitcircle yellow cursor skin, azer, and other various skins he's using rn. will update when done with each.
 
 - 11/16/19: added Azerino 23.01.2015 (pink cursor) and Azerino10032015 (blue cursor and diff hitsounds).
-
-- 11/16/19: holy shit he's going off with the skins. gonna add rrtyui as well, hopefully he doesn't use 10 more.
-
-- 11/16/19: well he is gonna use a lot more, so if you see a skin that you desperately want to see on here, shoot me a dm. i'll probably miss a couple.
 
 - 11/16/19: added rafis old and vaxei nomod ver. 3.
 
