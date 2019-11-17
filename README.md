@@ -1,4 +1,4 @@
-# will update as often as i can, but dm me on discord @joofi#9192 if a skin is missing because holy hell he has/uses a lot of them (scroll down and check first though, it will most likely be here)
+# will update as often as i can, but dm me on discord @joofi#9192 if a skin is missing because holy hell he has/uses a lot of them (scroll down and check first though, it will most likely be here). some skins may also be renamed bc either the name he uses is too long for me to fully copy or it just doesn't make sense.
 
 # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw him recently using on stream (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there (if not, notify me).
 
