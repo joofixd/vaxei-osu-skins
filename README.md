@@ -38,7 +38,7 @@ updates (m/d/y):
 ![](https://osu.ppy.sh/ss/14092749/9f37)
 
 # [vaxei nomod ver. 3](https://joofixd.s-ul.eu/RNHPWP03)
-![](https://osu.ppy.sh/ss/14092749/9f37)
+![](https://osu.ppy.sh/ss/14123538/e38b)
 
 # [404 SkinNotFound v2](https://joofixd.s-ul.eu/Ia93XGt5)
 ![](https://osu.ppy.sh/ss/13488989/a76a)
