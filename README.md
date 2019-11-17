@@ -11,7 +11,7 @@ updates (m/d/y):
 
 - 11/09/19: didn't even notice that the followpoints for vaxei nomod ver. 2 were off, updated them to funorange followpoints. props to another guy on discord who pointed it out.
 
-- 11/16/19: working on chitanda edit and that other generic white/green hitcircle yellow cursor skin he's using. will update when done.
+- 11/16/19: working on chitanda edit, that generic white/green hitcircle yellow cursor skin, and azer. will update when done.
 
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
