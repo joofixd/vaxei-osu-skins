@@ -7,11 +7,11 @@
 updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 - 11/09/19: didn't even notice that the followpoints for vaxei nomod ver. 2 were off, updated them to funorange followpoints. props to another guy on discord who pointed it out.
 
-- 11/16/19: working on chitanda edit, that generic white/green hitcircle yellow cursor skin, azer, and other various skins he's using rn. will update when done with each.
+- 11/16/19: working on chitanda edit and the other various skins he's using rn. will update when done with each.
 
 - 11/16/19: added Azerino 23.01.2015 (pink cursor), Azerino10032015 (blue cursor and diff hitsounds), rafis old, and vaxei nomod ver. 3.
 
-- 11/16/19: i think i added every skin he used on today's stream so far (not counting the ones he used for like 5 seconds), but chitanda is a little iffy. combobreak.mp3/wav, sectionpass.mp3/wav, sectionfail.mp3/wav, and maybe a couple of other things are off. still pretty faithful to what he's using (the followpoints are good) but you may notice that those are off if you're an extreme skin collector. also, rrtyui skin doesn't have gray bg for everything but vaxei's version doesn't either, he just manually adds it. i'll check vod tomorrow to see if he uses any more new ones bc i'm done for now.
+- 11/16/19: i think i added every skin he used on today's stream so far (not counting the ones he used for like 5 seconds), but chitanda is a little iffy. combobreak.mp3/wav, sectionpass.mp3/wav, sectionfail.mp3/wav, and maybe a couple of other things are off. still pretty faithful to what he's using (the followpoints are good) but you may notice that some things are off if you're an extreme skin collector. also, rrtyui skin doesn't have gray bg for everything but vaxei's version doesn't either, he just manually adds it. i'll check vod tomorrow to see if he uses any more new ones bc i'm done for now.
 
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
@@ -31,10 +31,10 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 # [rafis old](https://joofixd.s-ul.eu/GWIpIUCT)
 ![](https://osu.ppy.sh/ss/14123531/172a)
 
-# [Azerino 23.01.2015](https://joofixd.s-ul.eu/uNxwTdiD)
+# [Azerino 23.01.2015](https://joofixd.s-ul.eu/PkcqdJBZ)
 ![](https://osu.ppy.sh/ss/14123675/ca52)
 
-# [Azerino10032015](https://joofixd.s-ul.eu/stCYecPH)
+# [Azerino10032015](https://joofixd.s-ul.eu/zKSQ1hCU)
 ![](https://osu.ppy.sh/ss/14123388/6546)
 
 # [vaxei nomod ver. 2](https://joofixd.s-ul.eu/rHGy0xCK)
