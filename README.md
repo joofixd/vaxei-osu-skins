@@ -18,6 +18,9 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
+# [vaxei nomod ver. 3](https://joofixd.s-ul.eu/RNHPWP03)
+![](https://osu.ppy.sh/ss/14123538/e38b)
+
 # [rafis old](https://joofixd.s-ul.eu/GWIpIUCT)
 ![](https://osu.ppy.sh/ss/14123531/172a)
 
@@ -26,6 +29,15 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 
 # [Azerino10032015](https://joofixd.s-ul.eu/stCYecPH)
 ![](https://osu.ppy.sh/ss/14123388/6546)
+
+# [vaxei nomod ver. 2](https://joofixd.s-ul.eu/p25JB836)
+![](https://osu.ppy.sh/ss/14123584/f9e6)
+
+# [Selyu v2.3 (flyingtuna)](https://joofixd.s-ul.eu/AD2mDp8D)
+![](https://osu.ppy.sh/ss/13590349/4121)
+
+# [Jace 6.25](https://joofixd.s-ul.eu/z3fROJ0t)
+![](https://osu.ppy.sh/ss/13484104/3041)
 
 # [404 SkinNotFound v2](https://joofixd.s-ul.eu/Ia93XGt5)
 ![](https://osu.ppy.sh/ss/13488989/a76a)
@@ -48,11 +60,8 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 # [idke 1.1](https://joofixd.s-ul.eu/brttrQUN)
 ![](https://osu.ppy.sh/ss/13421935/ac6d)
 
-# [Jace 6.25](https://joofixd.s-ul.eu/z3fROJ0t)
-![](https://osu.ppy.sh/ss/13484104/3041)
-
-# [Selyu v2.3 (flyingtuna)](https://joofixd.s-ul.eu/AD2mDp8D)
-![](https://osu.ppy.sh/ss/13590349/4121)
+# [Yaong](https://joofixd.s-ul.eu/iMv0VXSg)
+![](https://osu.ppy.sh/ss/13590362/df76)
 
 # [vaxei v1](https://joofixd.s-ul.eu/oDntR2QB)
 ![](https://osu.ppy.sh/ss/13421876/d524)
@@ -65,12 +74,3 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 
 # [vaxei nomod](https://joofixd.s-ul.eu/zStMTKdG)
 ![](https://osu.ppy.sh/ss/13422009/065e)
-
-# [vaxei nomod ver. 2](https://joofixd.s-ul.eu/p25JB836)
-![](https://osu.ppy.sh/ss/14092749/9f37)
-
-# [vaxei nomod ver. 3](https://joofixd.s-ul.eu/RNHPWP03)
-![](https://osu.ppy.sh/ss/14123538/e38b)
-
-# [Yaong](https://joofixd.s-ul.eu/iMv0VXSg)
-![](https://osu.ppy.sh/ss/13590362/df76)
