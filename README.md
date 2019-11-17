@@ -11,7 +11,9 @@ updates (m/d/y):
 
 - 11/09/19: didn't even notice that the followpoints for vaxei nomod ver. 2 were off, updated them to funorange followpoints. props to another guy on discord who pointed it out.
 
-- 11/16/19: working on chitanda edit, that generic white/green hitcircle yellow cursor skin, and azer. will update when done.
+- 11/16/19: working on chitanda edit, that generic white/green hitcircle yellow cursor skin, azer, and other various skins he's using rn. will update when done with each.
+
+- 11/16/19: added Azerino 23.01.2015 (pink cursor) and Azerino10032015 (blue cursor and diff hitsounds).
 
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
@@ -36,6 +38,12 @@ updates (m/d/y):
 
 # [Aesthetic 1.3.2 (axarious)](https://joofixd.s-ul.eu/USOG9BPE)
 ![](https://osu.ppy.sh/ss/13484039/7a9d)
+
+# [Azerino 23.01.2015](https://joofixd.s-ul.eu/nPk5glJZ)
+![](https://osu.ppy.sh/ss/14123414/47ef)
+
+# [Azerino10032015](https://joofixd.s-ul.eu/stCYecPH)
+![](https://osu.ppy.sh/ss/14123388/6546)
 
 # [Doomsday v2.7](https://joofixd.s-ul.eu/JApkCq2x)
 ![](https://osu.ppy.sh/ss/13421931/f1ea)
