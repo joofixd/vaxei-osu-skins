@@ -1,8 +1,8 @@
 # will update as often as i can, but dm me on discord @joofi#9192 if a skin is missing (scroll down and check first though, it will most likely be here)
 
-ORDER: most used skin (currently rafis), then vaxei skins, then everything else is below in alphabetical order
+# CHECK THE SKIN FOLDER OF A SKIN IF THE DOWNLOAD LINK DOESN'T AUTOMATICALLY COME WITH THE CURSOR THAT YOU SAW HIM RECENTLY USING ON STREAM. IT WILL PROBABLY BE THERE, IF NOT, NOTIFY ME.
 
-READ: vax has a lot of copies of certain skins with just different cursors, but i'm not gonna upload them all separately bc it's a hassle. just check the cursor folder for each skin if it doesn't have the cursor that you saw him playing with by default.
+ORDER: most used skin (currently rafis), then vaxei skins, then everything else is below in alphabetical order.
 
 updates (m/d/y):
 - 09/07/19: the skin he used in his latest stream 2 hours ago (ShigeSeoulGlowingSliderHeads) is uploaded here (renamed to vaxei nomod ver. 2) but it's not 100% accurate. the sliderhead and some other things may be off because i have a better chance at finding jeff bezos' wallet on the sidewalk than finding elements from vaxei's mix skins.
