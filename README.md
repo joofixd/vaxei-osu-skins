@@ -1,6 +1,6 @@
 # will update as often as i can, but dm me on discord @joofi#9192 if a skin is missing because holy hell he has/uses a lot of them (scroll down and check first though, it will most likely be here)
 
-# CHECK THE SKIN FOLDER OF A SKIN IF THE DOWNLOAD LINK DOESN'T AUTOMATICALLY COME WITH THE CURSOR (ie: yellow cookiezi cursor with no trail as opposed with a trail) THAT YOU SAW HIM RECENTLY USING ON STREAM. IT WILL PROBABLY BE THERE, IF NOT, NOTIFY ME.
+# also check the skin folder of a skin if the download link doesn't automatically come with the cursor (ie: yellow cookiezi cursor with no trail as opposed with a trail) that you saw him recently using on stream. it will probably be there (if not, notify me).
 
 ORDER: most used skin (currently rafis), then vaxei skins, then everything else is below in alphabetical order.
 
