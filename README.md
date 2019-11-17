@@ -13,7 +13,7 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 
 - 11/16/19: i think i added every skin he used on today's stream so far (not counting the ones he used for like 5 seconds), but chitanda is a little iffy. combobreak.mp3/wav, sectionpass.mp3/wav, sectionfail.mp3/wav, and maybe a couple of other things are off. still pretty faithful to what he's using (the followpoints are good) but you may notice that some things are off if you're an extreme skin collector. also, rrtyui skin doesn't have gray bg for everything but vaxei's version doesn't either, he just manually adds it. i'll check vod tomorrow to see if he uses any more new ones bc i'm done for now.
 
-- 11/17/19: added Kantoku Skin by RuRu (SnowWhite) and updated various things for other skins (name, HitcircleOverlay, etc). gonna add the white/green yellow cursor skin later.
+- 11/17/19: added Kantoku Skin by RuRu (SnowWhite) and updated various things for other skins (name, HitcircleOverlay, etc). gonna add the white/green yellow cursor skin (SameSkinButNoFollowpoint edit) later.
 
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
