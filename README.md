@@ -11,6 +11,11 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 
 - 11/16/19: added Azerino 23.01.2015 (pink cursor), Azerino10032015 (blue cursor and diff hitsounds), rafis old, and vaxei nomod ver. 3.
 
+- 11/16/19: i think i added every skin he used on today's stream so far (not counting the ones he used for like 5 seconds), but chitanda is a little iffy. combobreak.mp3/wav, sectionpass.mp3/wav, sectionfail.mp3/wav, and maybe a couple of other things are off. still pretty faithful to what he's using (the followpoints are good) but you may notice that those are off if you're an extreme skin collector. also, rrtyui skin doesn't have gray bg for everything but vaxei's version doesn't either, he just manually adds it.
+
+# [Chitanda (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
+![](https://osu.ppy.sh/ss/14123642/b71e)
+
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
