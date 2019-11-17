@@ -19,6 +19,8 @@ updates (m/d/y):
 
 - 11/16/19: well he is gonna use a lot more, so if you see a skin that you desperately want to see on here, shoot me a dm. i'll probably miss a couple.
 
+- 11/16/19: added rafis old and vaxei nomod ver. 3.
+
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
