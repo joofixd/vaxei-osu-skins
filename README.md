@@ -17,6 +17,8 @@ updates (m/d/y):
 
 - 11/16/19: holy shit he's going off with the skins. gonna add rrtyui as well, hopefully he doesn't use 10 more.
 
+- 11/16/19: well he is gonna use a lot more, so if you see a skin that you desperately want to see on here, shoot me a dm. i'll probably miss a couple.
+
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
