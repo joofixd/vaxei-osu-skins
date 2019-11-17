@@ -2,7 +2,7 @@
 
 # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw him recently using on stream (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there (if not, notify me).
 
-ORDER: most used skin (currently rafis), then in order of date added.
+# ORDER: most used skin (currently rafis), then in order of date added.
 
 updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 - 11/09/19: didn't even notice that the followpoints for vaxei nomod ver. 2 were off, updated them to funorange followpoints. props to another guy on discord who pointed it out.
