@@ -21,38 +21,25 @@ updates (m/d/y):
 
 - 11/16/19: added rafis old and vaxei nomod ver. 3.
 
+- 11/16/19: gonna go with the ryuk github system from now on, aka newest top and oldest bottom. still gonna keep blue cursor rafis at the top though.
+
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
-# [vaxei v1](https://joofixd.s-ul.eu/oDntR2QB)
-![](https://osu.ppy.sh/ss/13421876/d524)
-
-# [vaxei v1.2](https://joofixd.s-ul.eu/Gq2lH4N4)
-![](https://osu.ppy.sh/ss/13421895/4170)
-
-# [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
-![](https://osu.ppy.sh/ss/13421907/707a)
-
-# [vaxei nomod](https://joofixd.s-ul.eu/zStMTKdG)
-![](https://osu.ppy.sh/ss/13422009/065e)
-
-# [vaxei nomod ver. 2](https://joofixd.s-ul.eu/p25JB836)
-![](https://osu.ppy.sh/ss/14092749/9f37)
-
-# [vaxei nomod ver. 3](https://joofixd.s-ul.eu/RNHPWP03)
-![](https://osu.ppy.sh/ss/14123538/e38b)
-
-# [404 SkinNotFound v2](https://joofixd.s-ul.eu/Ia93XGt5)
-![](https://osu.ppy.sh/ss/13488989/a76a)
-
-# [Aesthetic 1.3.2 (axarious)](https://joofixd.s-ul.eu/USOG9BPE)
-![](https://osu.ppy.sh/ss/13484039/7a9d)
+# [rafis old](https://joofixd.s-ul.eu/GWIpIUCT)
+![](https://osu.ppy.sh/ss/14123531/172a)
 
 # [Azerino 23.01.2015](https://joofixd.s-ul.eu/nPk5glJZ)
 ![](https://osu.ppy.sh/ss/14123414/47ef)
 
 # [Azerino10032015](https://joofixd.s-ul.eu/stCYecPH)
 ![](https://osu.ppy.sh/ss/14123388/6546)
+
+# [404 SkinNotFound v2](https://joofixd.s-ul.eu/Ia93XGt5)
+![](https://osu.ppy.sh/ss/13488989/a76a)
+
+# [Aesthetic 1.3.2 (axarious)](https://joofixd.s-ul.eu/USOG9BPE)
+![](https://osu.ppy.sh/ss/13484039/7a9d)
 
 # [Doomsday v2.7](https://joofixd.s-ul.eu/JApkCq2x)
 ![](https://osu.ppy.sh/ss/13421931/f1ea)
@@ -72,11 +59,26 @@ updates (m/d/y):
 # [Jace 6.25](https://joofixd.s-ul.eu/z3fROJ0t)
 ![](https://osu.ppy.sh/ss/13484104/3041)
 
-# [rafis old](https://joofixd.s-ul.eu/GWIpIUCT)
-![](https://osu.ppy.sh/ss/14123531/172a)
-
 # [Selyu v2.3 (flyingtuna)](https://joofixd.s-ul.eu/AD2mDp8D)
 ![](https://osu.ppy.sh/ss/13590349/4121)
+
+# [vaxei v1](https://joofixd.s-ul.eu/oDntR2QB)
+![](https://osu.ppy.sh/ss/13421876/d524)
+
+# [vaxei v1.2](https://joofixd.s-ul.eu/Gq2lH4N4)
+![](https://osu.ppy.sh/ss/13421895/4170)
+
+# [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
+![](https://osu.ppy.sh/ss/13421907/707a)
+
+# [vaxei nomod](https://joofixd.s-ul.eu/zStMTKdG)
+![](https://osu.ppy.sh/ss/13422009/065e)
+
+# [vaxei nomod ver. 2](https://joofixd.s-ul.eu/p25JB836)
+![](https://osu.ppy.sh/ss/14092749/9f37)
+
+# [vaxei nomod ver. 3](https://joofixd.s-ul.eu/RNHPWP03)
+![](https://osu.ppy.sh/ss/14123538/e38b)
 
 # [Yaong](https://joofixd.s-ul.eu/iMv0VXSg)
 ![](https://osu.ppy.sh/ss/13590362/df76)
