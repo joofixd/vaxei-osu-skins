@@ -9,11 +9,7 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 
 - 11/16/19: working on chitanda edit, that generic white/green hitcircle yellow cursor skin, azer, and other various skins he's using rn. will update when done with each.
 
-- 11/16/19: added Azerino 23.01.2015 (pink cursor) and Azerino10032015 (blue cursor and diff hitsounds).
-
-- 11/16/19: added rafis old and vaxei nomod ver. 3.
-
-- 11/16/19: gonna go with the ryuk github system from now on, aka newest top and oldest bottom. still gonna keep the most used skin (blue cursor rafis as of now) at the top though.
+- 11/16/19: added Azerino 23.01.2015 (pink cursor), Azerino10032015 (blue cursor and diff hitsounds), rafis old, and vaxei nomod ver. 3.
 
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
