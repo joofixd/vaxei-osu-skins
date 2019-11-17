@@ -37,6 +37,9 @@ updates (m/d/y):
 # [vaxei nomod ver. 2](https://joofixd.s-ul.eu/p25JB836)
 ![](https://osu.ppy.sh/ss/14092749/9f37)
 
+# [vaxei nomod ver. 3](https://joofixd.s-ul.eu/RNHPWP03)
+![](https://osu.ppy.sh/ss/14092749/9f37)
+
 # [404 SkinNotFound v2](https://joofixd.s-ul.eu/Ia93XGt5)
 ![](https://osu.ppy.sh/ss/13488989/a76a)
 
@@ -66,6 +69,9 @@ updates (m/d/y):
 
 # [Jace 6.25](https://joofixd.s-ul.eu/z3fROJ0t)
 ![](https://osu.ppy.sh/ss/13484104/3041)
+
+# [rafis old](https://joofixd.s-ul.eu/GWIpIUCT)
+![](https://osu.ppy.sh/ss/14123531/172a)
 
 # [Selyu v2.3 (flyingtuna)](https://joofixd.s-ul.eu/AD2mDp8D)
 ![](https://osu.ppy.sh/ss/13590349/4121)
