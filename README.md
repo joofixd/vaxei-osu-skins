@@ -15,6 +15,8 @@ updates (m/d/y):
 
 - 11/16/19: added Azerino 23.01.2015 (pink cursor) and Azerino10032015 (blue cursor and diff hitsounds).
 
+- 11/16/19: holy shit he's going off with the skins. gonna add rrtyui as well, hopefully he doesn't use 10 more.
+
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
