@@ -23,6 +23,9 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
 
+# [SameSkinButNoFollowpoint edit](https://joofixd.s-ul.eu/Wad2c8WS)
+![](https://osu.ppy.sh/ss/14131995/3e1d)
+
 # [Kantoku Skin by RuRu (SnowWhite)](https://joofixd.s-ul.eu/paFbrEnp)
 ![](https://osu.ppy.sh/ss/14126836/e5d4)
 
