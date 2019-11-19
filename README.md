@@ -15,6 +15,8 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 
 - 11/17/19: added Kantoku Skin by RuRu (SnowWhite) and updated various things for other skins (name, HitcircleOverlay, etc). gonna add the white/green yellow cursor skin (SameSkinButNoFollowpoint edit) later.
 
+- 11/18/19: fixed an issue with vaxei nomod ver. 2 (osu! wouldn't open the skin because of some error).
+
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
