@@ -17,6 +17,8 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 
 - 11/18/19: fixed an issue with vaxei nomod ver. 2 (osu! wouldn't open the skin because of some error).
 
+- 11/18/19: added SameSkinButNoFollowpoint edit.
+
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
