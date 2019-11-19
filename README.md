@@ -42,7 +42,7 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 # [Azerino10032015](https://joofixd.s-ul.eu/zKSQ1hCU)
 ![](https://osu.ppy.sh/ss/14123388/6546)
 
-# [vaxei nomod ver. 2](https://joofixd.s-ul.eu/rHGy0xCK)
+# [vaxei nomod ver. 2](https://joofixd.s-ul.eu/RNQ0X5dB)
 ![](https://osu.ppy.sh/ss/14123584/f9e6)
 
 # [Selyu v2.3 (flyingtuna)](https://joofixd.s-ul.eu/AD2mDp8D)
