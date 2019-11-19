@@ -7,7 +7,7 @@
 updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 - 11/09/19: didn't even notice that the followpoints for vaxei nomod ver. 2 were off, updated them to funorange followpoints. props to another guy on discord who pointed it out.
 
-- 11/16/19: working on chitanda edit and the other various skins he's using rn. will update when done with each.
+- 11/16/19: working on chitanda edit and the other various skins he's using right now. will update when done with each.
 
 - 11/16/19: added Azerino 23.01.2015 (pink cursor), Azerino10032015 (blue cursor and diff hitsounds), rafis old, and vaxei nomod ver. 3.
 
@@ -17,7 +17,7 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 
 - 11/18/19: fixed an issue with vaxei nomod ver. 2 (osu! wouldn't open the skin because of some error).
 
-- 11/18/19: added SameSkinButNoFollowpoint edit.
+- 11/18/19: added SameSkinButNoFollowpoint edit. it's literally just a different cursor with a different scorebar-bg. not 100% sure if it's the boxed playfield/scorebar-bg that says 1st in the bottom-right like the 404 skin but i can't tell because his handcam blocks that part of the screen. i'll just assume it is for now.
 
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
