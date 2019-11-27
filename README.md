@@ -19,11 +19,16 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 
 - 11/18/19: added SameSkinButNoFollowpoint edit. it's literally just yaong with a different cursor and a boxed playfield. not 100% sure if it's the boxed playfield/scorebar-bg that says 1st in the bottom-right like the 404 skin but i can't tell because his handcam blocks that part of the screen. i'll just assume it is for now.
 
+- 11/26/19: added shigeskin.
+
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
 
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
+
+# [shigeskin](https://joofixd.s-ul.eu/I2EvprdS)
+![](https://osu.ppy.sh/ss/14167421/5660)
 
 # [SameSkinButNoFollowpoint edit](https://joofixd.s-ul.eu/FoIGUaIs)
 ![](https://osu.ppy.sh/ss/14132025/4fa0)
