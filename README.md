@@ -2,7 +2,7 @@
 
 # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw him recently using on stream (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there (if not, notify me).
 
-# ORDER: most used skin (currently rafis hddt (vaxei ver.)), vaxei dt, then in order of date added.
+# ORDER: most used skin/s (currently vaxei nomod ver. 2 and rafis hddt (vaxei ver.)), vaxei dt, then in order of date added.
 
 updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 - 11/09/19: didn't even notice that the followpoints for vaxei nomod ver. 2 were off, updated them to funorange followpoints. props to another guy on discord who pointed it out.
@@ -20,6 +20,9 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 - 11/18/19: added SameSkinButNoFollowpoint edit. it's literally just yaong with a different cursor and a boxed playfield. not 100% sure if it's the boxed playfield/scorebar-bg that says 1st in the bottom-right like the 404 skin but i can't tell because his handcam blocks that part of the screen. i'll just assume it is for now.
 
 - 11/26/19: added shigeskin.
+
+# [vaxei nomod ver. 2](https://joofixd.s-ul.eu/RNQ0X5dB)
+![](https://osu.ppy.sh/ss/14123584/f9e6)
 
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/13422086/af38)
@@ -53,9 +56,6 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 
 # [Azerino10032015](https://joofixd.s-ul.eu/zKSQ1hCU)
 ![](https://osu.ppy.sh/ss/14123388/6546)
-
-# [vaxei nomod ver. 2](https://joofixd.s-ul.eu/RNQ0X5dB)
-![](https://osu.ppy.sh/ss/14123584/f9e6)
 
 # [Selyu v2.3 (flyingtuna)](https://joofixd.s-ul.eu/AD2mDp8D)
 ![](https://osu.ppy.sh/ss/13590349/4121)
