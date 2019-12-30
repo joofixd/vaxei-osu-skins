@@ -5,21 +5,7 @@
 # ORDER: most used skin/s (currently vaxei nomod ver. 2 and rafis hddt (vaxei ver.)), vaxei dt, then in order of date added.
 
 updates (m/d/y) (will delete these after 2 weeks or so of writing them):
-- 11/09/19: didn't even notice that the followpoints for vaxei nomod ver. 2 were off, updated them to funorange followpoints. props to another guy on discord who pointed it out.
-
-- 11/16/19: working on chitanda edit and the other various skins he's using right now. will update when done with each.
-
-- 11/16/19: added Azerino 23.01.2015 (pink cursor), Azerino10032015 (blue cursor and diff hitsounds), rafis old, and vaxei nomod ver. 3.
-
-- 11/16/19: i think i added every skin he used on today's stream so far (not counting the ones he used for like 5 seconds), but chitanda is a little iffy. combobreak.mp3/wav, sectionpass.mp3/wav, sectionfail.mp3/wav, and maybe a couple of other things are off. still pretty faithful to what he's using (the followpoints are good) but you may notice that some things are off if you're an extreme skin collector. also, rrtyui skin doesn't have gray bg for everything but vaxei's version doesn't either, he just manually adds it. i'll check vod tomorrow to see if he uses any more new ones bc i'm done for now.
-
-- 11/17/19: added Kantoku Skin by RuRu (SnowWhite) and updated various things for other skins (name, HitcircleOverlay, etc). gonna add the white/green yellow cursor skin (SameSkinButNoFollowpoint edit) later.
-
-- 11/18/19: fixed an issue with vaxei nomod ver. 2 (osu! wouldn't open the skin because of some error).
-
-- 11/18/19: added SameSkinButNoFollowpoint edit. it's literally just yaong with a different cursor and a boxed playfield. not 100% sure if it's the boxed playfield/scorebar-bg that says 1st in the bottom-right like the 404 skin but i can't tell because his handcam blocks that part of the screen. i'll just assume it is for now.
-
-- 11/26/19: added shigeskin.
+- 12/30/19: added boom 0524 edit.
 
 # [vaxei nomod ver. 2](https://joofixd.s-ul.eu/RNQ0X5dB)
 ![](https://osu.ppy.sh/ss/14123584/f9e6)
@@ -29,6 +15,9 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
+
+# [boom 0524 edit](https://joofixd.s-ul.eu/C5rNFYwR)
+![](https://osu.ppy.sh/ss/14306775/47ed)
 
 # [shigeskin](https://joofixd.s-ul.eu/I2EvprdS)
 ![](https://osu.ppy.sh/ss/14167421/5660)
