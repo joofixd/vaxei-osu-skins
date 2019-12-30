@@ -11,7 +11,7 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 ![](https://osu.ppy.sh/ss/14123584/f9e6)
 
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
-![](https://osu.ppy.sh/ss/13422086/af38)
+![](https://osu.ppy.sh/ss/14306787/1c8c)
 
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
