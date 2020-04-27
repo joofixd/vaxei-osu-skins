@@ -17,7 +17,7 @@ updates (m/d/y) (will delete these after 2 weeks or so of writing them):
 ![](https://osu.ppy.sh/ss/13421907/707a)
 
 # [Cookiezi 16 2016-01-09](https://joofixd.s-ul.eu/br46LPGc)
-![]()
+![](https://osu.ppy.sh/ss/14823912/c19f)
 
 # [boom 0524 edit](https://joofixd.s-ul.eu/C5rNFYwR)
 ![](https://osu.ppy.sh/ss/14306775/47ed)
