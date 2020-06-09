@@ -6,7 +6,7 @@
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 - 05/31/2020: added vaxei fils cursor
-- 06/08/2020: added 
+- 06/08/2020: added vaxei old (bubble hitsounds)
 
 # [vaxei nomod ver. 2](https://joofixd.s-ul.eu/RNQ0X5dB)
 ![](https://osu.ppy.sh/ss/14123584/f9e6)
