@@ -5,8 +5,8 @@
 # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw him recently using on stream (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me.
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
-- 05/31/2020: added vaxei fils cursor
-- 06/08/2020: added vaxei old (bubble hitsounds)
+- 06/23/2020: added vaxei yellow trail 2016
+- 06/23/2020: 
 
 # [vaxei nomod ver. 2](https://joofixd.s-ul.eu/RNQ0X5dB)
 ![](https://osu.ppy.sh/ss/14123584/f9e6)
@@ -17,11 +17,11 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
 
+# [vaxei yellow trail 2016](https://joofixd.s-ul.eu/h66g9NH3)
+![](https://osu.ppy.sh/ss/15003419/52ee)
+
 # [vaxei old (bubble hitsounds)](https://joofixd.s-ul.eu/7M49QPFo)
 ![](https://osu.ppy.sh/ss/15040973/cfd0)
-
-# [vaxei fils cursor](https://joofixd.s-ul.eu/byshw7pb)
-![](https://osu.ppy.sh/ss/15003419/52ee)
 
 # [Cookiezi 16 2016-01-09](https://joofixd.s-ul.eu/br46LPGc)
 ![](https://osu.ppy.sh/ss/14823912/c19f)
