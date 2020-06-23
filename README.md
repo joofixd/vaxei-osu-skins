@@ -17,6 +17,9 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
 
+# [vaxei red trail 2016](https://joofixd.s-ul.eu/Pz2jg9xT)
+![](https://osu.ppy.sh/ss/15119609/2f89)
+
 # [vaxei yellow trail 2016](https://joofixd.s-ul.eu/h66g9NH3)
 ![](https://osu.ppy.sh/ss/15119591/a4f4)
 
