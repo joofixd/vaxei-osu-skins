@@ -6,7 +6,7 @@
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 - 06/23/2020: added vaxei yellow trail 2016
-- 06/23/2020: 
+- 06/23/2020: added vaxei red trail 2016
 
 # [vaxei nomod ver. 2](https://joofixd.s-ul.eu/RNQ0X5dB)
 ![](https://osu.ppy.sh/ss/14123584/f9e6)
