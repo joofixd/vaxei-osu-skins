@@ -71,7 +71,7 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 # [Aesthetic 1.3.2 (axarious)](https://joofixd.s-ul.eu/USOG9BPE)
 ![](https://osu.ppy.sh/ss/13484039/7a9d)
 
-# [dracula (funorange)](https://joofixd.s-ul.eu/AViONqPI)
+# [dracula (funorange)](https://joofixd.s-ul.eu/2JwFiizy)
 ![](https://osu.ppy.sh/ss/13421944/da9d)
 
 # [idke 1.1](https://joofixd.s-ul.eu/brttrQUN)
