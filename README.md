@@ -6,6 +6,7 @@
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 - 07/18/2020: updated dracula (funorange)
+- 07/19/2020: added YUGEN
 
 # [vaxei nomod ver. 2](https://joofixd.s-ul.eu/RNQ0X5dB)
 ![](https://osu.ppy.sh/ss/14123584/f9e6)
@@ -15,6 +16,9 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
+
+# [YUGEN](https://joofixd.s-ul.eu/4fQKymb5)
+![](https://osu.ppy.sh/ss/15244377/36f0)
 
 # [vaxei red trail 2016](https://joofixd.s-ul.eu/Pz2jg9xT)
 ![](https://osu.ppy.sh/ss/15119609/2f89)
