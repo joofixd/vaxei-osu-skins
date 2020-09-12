@@ -5,7 +5,7 @@
 # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw him recently using on stream (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me.
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
-- 09/12/2020: added SameSkinButNoFollowpoint edit
+- 09/12/2020: added SameSkinButNoFollowpoint edit new (originally uploaded with vaxei's link with had to reupload with different name bc i realized that there's already a skin here with that name)
 
 # [vaxei nomod ver. 2](https://joofixd.s-ul.eu/RNQ0X5dB)
 ![](https://osu.ppy.sh/ss/14123584/f9e6)
@@ -16,7 +16,7 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
 
-# [SameSkinButNoFollowpoint edit](https://donkeykong.s-ul.eu/zksdMulM)
+# [SameSkinButNoFollowpoint edit new](https://joofixd.s-ul.eu/hdx9zi3e)
 ![](https://osu.ppy.sh/ss/15534713/658b)
 
 # [YUGEN](https://joofixd.s-ul.eu/4fQKymb5)
