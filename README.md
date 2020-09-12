@@ -5,8 +5,7 @@
 # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw him recently using on stream (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me.
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
-- 07/18/2020: updated dracula (funorange)
-- 07/19/2020: added YUGEN
+- 09/12/2020: added SameSkinButNoFollowpoint edit
 
 # [vaxei nomod ver. 2](https://joofixd.s-ul.eu/RNQ0X5dB)
 ![](https://osu.ppy.sh/ss/14123584/f9e6)
@@ -16,6 +15,9 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
+
+#[SameSkinButNoFollowpoint edit](https://donkeykong.s-ul.eu/zksdMulM)
+![]()
 
 # [YUGEN](https://joofixd.s-ul.eu/4fQKymb5)
 ![](https://osu.ppy.sh/ss/15244377/36f0)
