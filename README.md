@@ -17,7 +17,7 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 ![](https://osu.ppy.sh/ss/13421907/707a)
 
 #[SameSkinButNoFollowpoint edit](https://donkeykong.s-ul.eu/zksdMulM)
-![]()
+![](https://osu.ppy.sh/ss/15534713/658b)
 
 # [YUGEN](https://joofixd.s-ul.eu/4fQKymb5)
 ![](https://osu.ppy.sh/ss/15244377/36f0)
