@@ -9,7 +9,7 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 - 09/16/2020: updated SameSkinButNoFollowpoint edit new (sliderstartcircle.png)
 
 # [SameSkinButNoFollowpoint edit new](https://joofixd.s-ul.eu/6rU2TRic)
-![](https://osu.ppy.sh/ss/15555325/b405)
+![](https://osu.ppy.sh/ss/15555339/2505)
 
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/14306787/1c8c)
