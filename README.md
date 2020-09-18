@@ -7,6 +7,7 @@
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 - 09/12/2020: added SameSkinButNoFollowpoint edit new (originally uploaded with vaxei's link with had to reupload with different name bc i realized that there's already a skin here with that name)
 - 09/16/2020: updated SameSkinButNoFollowpoint edit new (sliderstartcircle.png). it's still not quite what vaxei is using on stream so someone on discord is helping me recreate it. will update again soon.
+- 09/17/2020: YES I KNOW THE NEW SKIN IS SLIGHTLY DIFFERENT FROM THE ONE HE USES ON STREAM, THE SLIDERSTARTCIRCLE AND SLIDERSTARTCIRCLEOVERLAY ARE DIFFERENT, I KNOW. ALL I DID WAS RE-UPLOAD THE SKIN HE UPLOADED ON YOUTUBE. ALL I CAN DO IS WAIT FOR A RESPONSE.
 
 # [SameSkinButNoFollowpoint edit new](https://joofixd.s-ul.eu/6rU2TRic)
 ![](https://osu.ppy.sh/ss/15555339/2505)
