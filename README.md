@@ -10,6 +10,7 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 - 09/17/2020: added SameSkinButNoFollowpoint edit new no gameplay box
 - 09/17/2020: YES I KNOW THE NEW SKIN IS SLIGHTLY DIFFERENT FROM THE ONE HE USES ON STREAM, THE SLIDERSTARTCIRCLE AND SLIDERSTARTCIRCLEOVERLAY ARE DIFFERENT, I KNOW. ALL I DID WAS RE-UPLOAD THE SKIN HE UPLOADED ON YOUTUBE. ALL I CAN DO IS WAIT FOR A RESPONSE.
 - 09/20/2020: removed SameSkinButNoFollowpoint edit new/SameSkinButNoFollowpoint edit new no gameplay box
+- 09/20/2020: HE MESSAGED ME BACK THE ACTUAL ORIGINAL SKIN LET'S GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 - 09/20/2020: added SameSkinButNoFollowpoint edit asdf, don't ask me why it's called that, he just sent it as "asdf" lol
 - 09/20/2020: added SameSkinButNoFollowpoint edit asdf with gameplay box, for the people that want to use the version with it
 
