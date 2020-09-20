@@ -14,7 +14,7 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 - 09/20/2020: added SameSkinButNoFollowpoint edit asdf with gameplay box, for the people that want to use the version with it
 
 # [SameSkinButNoFollowpoint edit asdf](https://joofixd.s-ul.eu/VAvLbpPX)
-![](https://osu.ppy.sh/ss/15571985/7eee)
+![]()
 
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/14306787/1c8c)
