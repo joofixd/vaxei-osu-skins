@@ -1,4 +1,4 @@
-# ORDER: most used skin/s (currently SameSkinButNoFollowpoint edit new/SameSkinButNoFollowpoint edit new no gameplay box and rafis hddt (vaxei ver.)), vaxei dt, then in order of date added.
+# ORDER: most used skin/s (currently SameSkinButNoFollowpoint edit asdf and rafis hddt (vaxei ver.)), vaxei dt, then in order of date added.
 
 # will update as often as i can, but dm me on discord @joofi#9192 if a skin is missing (scroll and check first though).
 
@@ -9,18 +9,21 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 - 09/16/2020: updated SameSkinButNoFollowpoint edit new (sliderstartcircle.png). it's still not quite what vaxei is using on stream so someone on discord is helping me recreate it. will update again soon.
 - 09/17/2020: added SameSkinButNoFollowpoint edit new no gameplay box
 - 09/17/2020: YES I KNOW THE NEW SKIN IS SLIGHTLY DIFFERENT FROM THE ONE HE USES ON STREAM, THE SLIDERSTARTCIRCLE AND SLIDERSTARTCIRCLEOVERLAY ARE DIFFERENT, I KNOW. ALL I DID WAS RE-UPLOAD THE SKIN HE UPLOADED ON YOUTUBE. ALL I CAN DO IS WAIT FOR A RESPONSE.
+- 09/20/2020: removed SameSkinButNoFollowpoint edit new/SameSkinButNoFollowpoint edit new no gameplay box
+- 09/20/2020: added SameSkinButNoFollowpoint edit asdf, don't ask me why it's called that, he just sent it as "asdf" lol
+- 09/20/2020: added SameSkinButNoFollowpoint edit asdf with gameplay box, for the people that want to use the version with it
 
-# [SameSkinButNoFollowpoint edit new no gameplay box](https://joofi1.s-ul.eu/b7Mk9DOQ)
-![](https://osu.ppy.sh/ss/15561918/0f82)
-
-# [SameSkinButNoFollowpoint edit new](https://joofixd.s-ul.eu/6rU2TRic)
-![](https://osu.ppy.sh/ss/15555339/2505)
+# [SameSkinButNoFollowpoint edit asdf](https://joofixd.s-ul.eu/VAvLbpPX)
+![](https://osu.ppy.sh/ss/15571985/7eee)
 
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/14306787/1c8c)
 
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
+
+# [SameSkinButNoFollowpoint edit asdf with gameplay box](https://joofixd.s-ul.eu/4AWI8ZCz)
+![](https://osu.ppy.sh/ss/15572012/a686)
 
 # [vaxei nomod ver. 2](https://joofixd.s-ul.eu/RNQ0X5dB)
 ![](https://osu.ppy.sh/ss/14123584/f9e6)
