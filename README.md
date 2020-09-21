@@ -14,6 +14,9 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
 - 09/20/2020: added SameSkinButNoFollowpoint edit asdf, don't ask me why it's called that, he just sent it as "asdf" lol
 - 09/20/2020: added SameSkinButNoFollowpoint edit asdf with gameplay box, for the people that want to use the version with it
 
+# [- 《CK》 Bacon boi 1.0 skin](https://www.mediafire.com/folder/x8d4tq5j9u7p8)
+![]()
+
 # [SameSkinButNoFollowpoint edit asdf](https://joofixd.s-ul.eu/VAvLbpPX)
 ![](https://osu.ppy.sh/ss/15572018/843d)
 
