@@ -1,4 +1,4 @@
-# ORDER: most used skin/s (currently SameSkinButNoFollowpoint edit asdf and rafis hddt (vaxei ver.)), vaxei dt, then in order of date added.
+# ORDER: most used skin/s (currently 《CK》 Bacon boi 1.0 skin, SameSkinButNoFollowpoint edit asdf, and rafis hddt (vaxei ver.)), vaxei dt, then in order of date added.
 
 # will update as often as i can, but dm me on discord @joofi#9192 if a skin is missing (scroll and check first though).
 
