@@ -4,13 +4,7 @@
 
 # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw him recently using on stream (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me.
 
-updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
-- 09/12/2020: added SameSkinButNoFollowpoint edit new (originally uploaded with vaxei's link with had to reupload with different name bc i realized that there's already a skin here with that name)
-- 09/16/2020: updated SameSkinButNoFollowpoint edit new (sliderstartcircle.png). it's still not quite what vaxei is using on stream so someone on discord is helping me recreate it. will update again soon.
-- 09/17/2020: added SameSkinButNoFollowpoint edit new no gameplay box
-- 09/17/2020: YES I KNOW THE NEW SKIN IS SLIGHTLY DIFFERENT FROM THE ONE HE USES ON STREAM, THE SLIDERSTARTCIRCLE AND SLIDERSTARTCIRCLEOVERLAY ARE DIFFERENT, I KNOW. ALL I DID WAS RE-UPLOAD THE SKIN HE UPLOADED ON YOUTUBE. ALL I CAN DO IS WAIT FOR A RESPONSE.
-- 09/20/2020: removed SameSkinButNoFollowpoint edit new/SameSkinButNoFollowpoint edit new no gameplay box
-- 09/20/2020: HE MESSAGED ME BACK THE ACTUAL ORIGINAL SKIN LET'S GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're updates about issues and they get resolved):
 - 09/20/2020: added SameSkinButNoFollowpoint edit asdf, don't ask me why it's called that, he just sent it as "asdf" lol
 - 09/20/2020: added SameSkinButNoFollowpoint edit asdf with gameplay box, for the people that want to use the version with it
 - 09/20/2020: added 《CK》 Bacon boi 1.0 skin (various versions)
