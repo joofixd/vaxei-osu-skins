@@ -1,18 +1,14 @@
-# ORDER: most used skin/s (currently SameSkinButNoFollowpoint edit asdf and rafis hddt (vaxei ver.)), vaxei dt, then in order of date added.
+The following readme will serve to document all of Vaxei's skins.
 
-# will update as often as i can, but dm me on discord @joofi#9192 if a skin is missing (scroll and check first though).
+## ORDER: 
+The order goes as followed: 
+- Most used Vaxei skins (TOP 3)
+- Afterwards, it will descend based on the date added.
 
-# also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw him recently using on stream (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me.
-
-updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them):
-- 09/12/2020: added SameSkinButNoFollowpoint edit new (originally uploaded with vaxei's link with had to reupload with different name bc i realized that there's already a skin here with that name)
-- 09/16/2020: updated SameSkinButNoFollowpoint edit new (sliderstartcircle.png). it's still not quite what vaxei is using on stream so someone on discord is helping me recreate it. will update again soon.
-- 09/17/2020: added SameSkinButNoFollowpoint edit new no gameplay box
-- 09/17/2020: YES I KNOW THE NEW SKIN IS SLIGHTLY DIFFERENT FROM THE ONE HE USES ON STREAM, THE SLIDERSTARTCIRCLE AND SLIDERSTARTCIRCLEOVERLAY ARE DIFFERENT, I KNOW. ALL I DID WAS RE-UPLOAD THE SKIN HE UPLOADED ON YOUTUBE. ALL I CAN DO IS WAIT FOR A RESPONSE.
-- 09/20/2020: removed SameSkinButNoFollowpoint edit new/SameSkinButNoFollowpoint edit new no gameplay box
-- 09/20/2020: HE MESSAGED ME BACK THE ACTUAL ORIGINAL SKIN LET'S GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-- 09/20/2020: added SameSkinButNoFollowpoint edit asdf, don't ask me why it's called that, he just sent it as "asdf" lol
-- 09/20/2020: added SameSkinButNoFollowpoint edit asdf with gameplay box, for the people that want to use the version with it
+## NOTICE:
+I will update this list as often as I can, but if a skin is found to be missing you can do either of these two things
+- DM joofi#9192 on discord
+- Make an issue request in the github
 
 # [SameSkinButNoFollowpoint edit asdf](https://joofixd.s-ul.eu/VAvLbpPX)
 ![](https://osu.ppy.sh/ss/15572018/843d)
