@@ -10,11 +10,11 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or 
 - 09/20/2020: added 《CK》 Bacon boi 1.0 skin (various versions)
 
 # [《CK》 Bacon boi 1.0 skin (various versions)](https://drive.google.com/drive/folders/1oXwqBrCgGK8EvSMAk0XAt1ixPJ-hbrzg)
-1.0 clrs
+[1.0 clrs](https://drive.google.com/file/d/1EEExrMkFIPO5WP74rknzY7dtMXpAz2_G/view?usp=sharing)
 ![](https://osu.ppy.sh/ss/15594343/dc42)
-1.0 old
+[1.0 old](https://drive.google.com/file/d/1IeGhMJvkwxRa9NGQmTKm7jlNjh4xgSrY/view?usp=sharing)
 ![](https://osu.ppy.sh/ss/15593839/d7bf)
-1.0
+[1.0](https://drive.google.com/file/d/11LPfXXKhdPbQd-Cwc3uVfeRve-YOIvkn/view?usp=sharing)
 ![](https://osu.ppy.sh/ss/15594348/e8bc)
 
 # [SameSkinButNoFollowpoint edit asdf](https://joofixd.s-ul.eu/VAvLbpPX)
