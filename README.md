@@ -5,7 +5,7 @@
 # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw him recently using on stream (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me.
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're updates about issues and they get resolved):
-- 09/20/2020: added SameSkinButNoFollowpoint edit asdf, don't ask me why it's called that, he just sent it as "asdf" lol
+- 09/20/2020: added SameSkinButNoFollowpoint edit asdf (don't ask me why it's called that, he just sent it as "asdf" lol)
 - 09/20/2020: added SameSkinButNoFollowpoint edit asdf with gameplay box, for the people that want to use the version with it
 - 09/20/2020: added 《CK》 Bacon boi 1.0 skin (various versions)
 
