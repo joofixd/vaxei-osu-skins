@@ -15,7 +15,7 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or 
 1.0 old
 ![](https://osu.ppy.sh/ss/15593839/d7bf)
 1.0
-![](https://osu.ppy.sh/ss/15576930/0b78)
+![](https://osu.ppy.sh/ss/15594348/e8bc)
 
 # [SameSkinButNoFollowpoint edit asdf](https://joofixd.s-ul.eu/VAvLbpPX)
 ![](https://osu.ppy.sh/ss/15572018/843d)
