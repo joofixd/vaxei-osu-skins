@@ -8,6 +8,8 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or 
 - 09/20/2020: added SameSkinButNoFollowpoint edit asdf (don't ask me why it's called that, he just sent it as "asdf" lol)
 - 09/20/2020: added SameSkinButNoFollowpoint edit asdf with gameplay box, for the people that want to use the version with it
 - 09/20/2020: added 《CK》 Bacon boi 1.0 skin (various versions)
+- 09/25/2020: added separate links for all versions of 《CK》 Bacon boi 1.0 skin (excluding lite verisons)
+- 09/26/2020: added link for 《CK》 Bacon boi 1.0 『blue』
 
 # [《CK》 Bacon boi 1.0 skin (various versions)](https://drive.google.com/drive/folders/1oXwqBrCgGK8EvSMAk0XAt1ixPJ-hbrzg)
 [1.0 blue](https://drive.google.com/file/d/1JRDbxtEVFYMgt9ls4rvIRs2v0IfBddFO/view?usp=sharing)
