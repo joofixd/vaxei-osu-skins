@@ -10,6 +10,7 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or 
 - 09/20/2020: added 《CK》 Bacon boi 1.0 skin (various versions)
 - 09/25/2020: added separate links for all versions of 《CK》 Bacon boi 1.0 skin (excluding lite verisons)
 - 09/26/2020: added 《CK》 Bacon boi 1.0 『blue』
+- 10/02/2020: added vaxei v1.2 pink cursor long trail
 
 # [《CK》 Bacon boi 1.0 skin (various versions)](https://drive.google.com/drive/folders/1oXwqBrCgGK8EvSMAk0XAt1ixPJ-hbrzg)
 [1.0 blue](https://drive.google.com/file/d/1JRDbxtEVFYMgt9ls4rvIRs2v0IfBddFO/view?usp=sharing)
@@ -21,17 +22,20 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or 
 [1.0](https://drive.google.com/file/d/11LPfXXKhdPbQd-Cwc3uVfeRve-YOIvkn/view?usp=sharing)
 ![](https://osu.ppy.sh/ss/15594348/e8bc)
 
-# [SameSkinButNoFollowpoint edit asdf](https://joofixd.s-ul.eu/VAvLbpPX)
-![](https://osu.ppy.sh/ss/15572018/843d)
-
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/14306787/1c8c)
 
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
 
+# [vaxei v1.2 pink cursor long trail](https://joofixd.s-ul.eu/2HKVzjTo)
+![](https://osu.ppy.sh/ss/15626919/a389)
+
 # [SameSkinButNoFollowpoint edit asdf with gameplay box](https://joofixd.s-ul.eu/4AWI8ZCz)
 ![](https://osu.ppy.sh/ss/15572012/a686)
+
+# [SameSkinButNoFollowpoint edit asdf](https://joofixd.s-ul.eu/VAvLbpPX)
+![](https://osu.ppy.sh/ss/15572018/843d)
 
 # [vaxei nomod ver. 2](https://joofixd.s-ul.eu/RNQ0X5dB)
 ![](https://osu.ppy.sh/ss/14123584/f9e6)
