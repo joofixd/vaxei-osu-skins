@@ -1,6 +1,6 @@
 # ORDER: most used skin/s, vaxei dt, then in order of date added.
 
-# will update as often as i can, but dm me on discord @joofi#9192 if a skin is missing (scroll and check first though).
+# will update as often as i can, but dm me on discord @joseph#1856 if a skin is missing (scroll and check first though).
 
 # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw him recently using on stream (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me.
 
