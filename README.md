@@ -7,7 +7,7 @@
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're updates about issues and they get resolved):
 - 11/17/2020: updated 《CK》 Bacon boi 1.0 『blue』 (added cookiezi no trail cursor and updated screenshot)
 
-# [《CK》 Bacon boi 1.0 skin (various versions)](https://drive.google.com/drive/folders/1oXwqBrCgGK8EvSMAk0XAt1ixPJ-hbrzg)
+# [《CK》 Bacon boi 1.0 skin (various versions)]
 [1.0 blue](https://joofixd.s-ul.eu/Idc2Mdek)
 ![](https://osu.ppy.sh/ss/15821083/950a)
 [1.0 clrs](https://drive.google.com/file/d/1EEExrMkFIPO5WP74rknzY7dtMXpAz2_G/view?usp=sharing)
