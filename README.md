@@ -5,16 +5,11 @@
 # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw him recently using on stream (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me.
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're updates about issues and they get resolved):
-- 09/20/2020: added SameSkinButNoFollowpoint edit asdf (don't ask me why it's called that, he just sent it as "asdf" lol)
-- 09/20/2020: added SameSkinButNoFollowpoint edit asdf with gameplay box, for the people that want to use the version with it
-- 09/20/2020: added 《CK》 Bacon boi 1.0 skin (various versions)
-- 09/25/2020: added separate links for all versions of 《CK》 Bacon boi 1.0 skin (excluding lite verisons)
-- 09/26/2020: added 《CK》 Bacon boi 1.0 『blue』
-- 10/02/2020: added vaxei v1.2 pink cursor long trail
+- 11/17/2020: updated 《CK》 Bacon boi 1.0 『blue』 (added cookiezi no trail cursor and updated screenshot)
 
 # [《CK》 Bacon boi 1.0 skin (various versions)](https://drive.google.com/drive/folders/1oXwqBrCgGK8EvSMAk0XAt1ixPJ-hbrzg)
 [1.0 blue](https://drive.google.com/file/d/1JRDbxtEVFYMgt9ls4rvIRs2v0IfBddFO/view?usp=sharing)
-![](https://osu.ppy.sh/ss/15599229/3322)
+![](https://osu.ppy.sh/ss/15821083/950a)
 [1.0 clrs](https://drive.google.com/file/d/1EEExrMkFIPO5WP74rknzY7dtMXpAz2_G/view?usp=sharing)
 ![](https://osu.ppy.sh/ss/15594343/dc42)
 [1.0 old](https://drive.google.com/file/d/1IeGhMJvkwxRa9NGQmTKm7jlNjh4xgSrY/view?usp=sharing)
