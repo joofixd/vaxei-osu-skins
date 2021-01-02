@@ -5,7 +5,7 @@
 # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw him recently using on stream (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me.
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're updates about issues and they get resolved):
-- 11/17/2020: updated 《CK》 Bacon boi 1.0 『blue』 (added cookiezi no trail cursor and updated screenshot)
+- 01/01/2021: s-ul.eu is temporarily down, so just wait a bit for the links to come back up.
 
 # 《CK》 Bacon boi 1.0 skin (various versions) (links below)
 [1.0 blue](https://joofixd.s-ul.eu/Idc2Mdek)
