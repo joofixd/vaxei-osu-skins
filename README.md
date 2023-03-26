@@ -1,3 +1,4 @@
+
 The following readme will serve to document all of Vaxei's skins.
 
 ## ORDER: 
@@ -9,9 +10,26 @@ The order goes as followed:
 I will update this list as often as I can, but if a skin is found to be missing you can do either of these two things
 - DM joofi#9192 on discord
 - Make an issue request in the github
+=======
+# ORDER: most used skin/s, vaxei dt, then in order of date added.
 
-# [SameSkinButNoFollowpoint edit asdf](https://joofixd.s-ul.eu/VAvLbpPX)
-![](https://osu.ppy.sh/ss/15572018/843d)
+# will update as often as i can, but dm me on discord @joseph#1856 if a skin is missing (scroll and check first though).
+
+# also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw him recently using on stream (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me.
+
+updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're updates about issues and they get resolved):
+- 01/01/2021: s-ul.eu is temporarily down, so just wait a bit for the links to come back up.
+
+
+# 《CK》 Bacon boi 1.0 skin (various versions) (links below)
+[1.0 blue](https://joofixd.s-ul.eu/Idc2Mdek)
+![](https://osu.ppy.sh/ss/15821083/950a)
+[1.0 clrs](https://drive.google.com/file/d/1EEExrMkFIPO5WP74rknzY7dtMXpAz2_G/view?usp=sharing)
+![](https://osu.ppy.sh/ss/15594343/dc42)
+[1.0 old](https://drive.google.com/file/d/1IeGhMJvkwxRa9NGQmTKm7jlNjh4xgSrY/view?usp=sharing)
+![](https://osu.ppy.sh/ss/15593839/d7bf)
+[1.0](https://drive.google.com/file/d/11LPfXXKhdPbQd-Cwc3uVfeRve-YOIvkn/view?usp=sharing)
+![](https://osu.ppy.sh/ss/15594348/e8bc)
 
 # [Rafis HDDT (vaxei ver.)](https://joofixd.s-ul.eu/NyoJDqSp)
 ![](https://osu.ppy.sh/ss/14306787/1c8c)
@@ -19,8 +37,14 @@ I will update this list as often as I can, but if a skin is found to be missing 
 # [vaxei dt](https://joofixd.s-ul.eu/ouJZqGd1)
 ![](https://osu.ppy.sh/ss/13421907/707a)
 
+# [vaxei v1.2 pink cursor long trail](https://joofixd.s-ul.eu/2HKVzjTo)
+![](https://osu.ppy.sh/ss/15626919/a389)
+
 # [SameSkinButNoFollowpoint edit asdf with gameplay box](https://joofixd.s-ul.eu/4AWI8ZCz)
 ![](https://osu.ppy.sh/ss/15572012/a686)
+
+# [SameSkinButNoFollowpoint edit asdf](https://joofixd.s-ul.eu/VAvLbpPX)
+![](https://osu.ppy.sh/ss/15572018/843d)
 
 # [vaxei nomod ver. 2](https://joofixd.s-ul.eu/RNQ0X5dB)
 ![](https://osu.ppy.sh/ss/14123584/f9e6)
